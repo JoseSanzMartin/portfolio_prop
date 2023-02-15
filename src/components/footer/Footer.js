@@ -15,7 +15,8 @@ const Footer = () => {
         </div>
         <div className='footer-sns'>
             <div className='design-by'>
-                Diseñado por José Sanz Martín
+                Diseñado por José Sanz Martín<br></br>
+                josesanzmartin@hotmail.es
             </div>
             <div className='sns-links'>
                 <a href='https://www.linkedin.com/in/josesanzmartin' target='_blank' rel='noreferrer'>
