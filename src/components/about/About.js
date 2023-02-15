@@ -6,10 +6,10 @@ const About = () => {
   return (
     <div className='about-container'>
         <div className='about-desc'>
-            <h3> Let me tell you something about me</h3>
-            <p> I'm José Sanz, a Junior Programmer and a pasionated about the world of programming</p>
+            <h3> Sobre mí</h3>
+            <p> Soy José Sanz, programador Junior y apasionado del mundo del desarrollo web</p>
             <div className='services-container'>
-              <h3>Services</h3>
+              <h3>Servicios</h3>
               <section className='services'>
                 <article className='service'>
                   <h2>Diseño web</h2>

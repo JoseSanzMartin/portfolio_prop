@@ -6,8 +6,8 @@ const Cover = () => {
   return (
     <div className="cover-container">
       <video className="video" src={coverVideo} autoPlay loop muted />
-      <h1> José Sanz Martín</h1>
-      <p> Developer | Designer | Content Creator |Entepreneur</p>
+      <h1> José Sanz Martín </h1>
+      <p> Desarrollador Web | Diseñador | Creador de contenido</p>
     </div>
   );
 };
